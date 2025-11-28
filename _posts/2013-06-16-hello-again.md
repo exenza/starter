@@ -1,7 +1,6 @@
 ---
 layout: blog
 category: blog
-published: true
 splash: 'https://jekyllrb.com/img/logo-2x.png'
 title: Now is titled
 ---
